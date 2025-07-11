@@ -9,7 +9,7 @@ description: Page with the Plotly.
 
 This is my interactive Plotly chart:
 
-{% include green_skill_plot_snippet.html %}
+{% include ./green_skill_plot_snippet.html %}
 
         
-[back](../)
+[back](./)
