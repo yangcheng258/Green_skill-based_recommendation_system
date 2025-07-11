@@ -4,25 +4,19 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./pages/another-page.md).
+[Link to another page](./another-page.html).
 
- 
-### Standalone Plotly HTML Files
-
-These links open a new page that contains *only* the Plotly chart.
-The source HTML files for these are located in `assets/plotly_output/`.
-
-* [Green Plotly (Standalone)](/assets/plotly_output/GreenSkillSpace_cluster_plot_highlight.html)
-* [Plotly2 Random Plot (Standalone)](/assets/plotly_output/my_interactive_plot.html)
+[Green Plotly](./GreenSkillSpace_cluster_plot_highlight.html). **This is how you show the HTML interactive directly.**
+[Green Plotly webpage](./plotly.md). **This is how you show the HTML interactive directly.**
 
 
-### Plotly Charts Embedded in Webpages
 
-These links take you to dedicated pages (source Markdown in `_pages/`) where the Plotly charts are embedded within the page content.
-[Plotly ](./_pages/plotly.md). **This is how you show the HTML interactive directly.**
-[Plotly2 Random plot](./_pages/plotly2.md). **This is how you actually embed the interactive map in a webpage.**
+[Plotly2 Random plot](./my_interactive_plot.html). **This is how you show the HTML interactive directly.**
+[Plotly2 Random plot](./plotly2.md). **This is how you actually embed the interactive map in a webpage.**
 
+There should be whitespace between paragraphs.
 
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 
 There should be whitespace between paragraphs.
