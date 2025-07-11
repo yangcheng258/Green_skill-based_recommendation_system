@@ -10,7 +10,7 @@ description: Page with the Plotly.
 This is my interactive Plotly chart:
 
 # {% include_relative GreenSkillSpace_cluster_plot_highlight.html.html %}
-<iframe src="{{ '/GreenSkillSpace_cluster_plot_highlight.html.html' | relative_url }}"
+<iframe src="{{ '/GreenSkillSpace_cluster_plot_highlight.html' | relative_url }}"
         width="100%"
         height="600px"
         frameborder="0"
