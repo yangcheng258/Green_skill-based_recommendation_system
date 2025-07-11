@@ -6,14 +6,21 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./pages/another-page.md).
 
-[Green Plotly](./data/GreenSkillSpace_cluster_plot_highlight.html). **This is how you show the HTML interactive directly.**
-[Green Plotly webpage](./pages/plotly.md). **This is how you show the HTML interactive directly.**
-
  
+### Standalone Plotly HTML Files
 
-[Plotly2 Random plot](./data/my_interactive_plot.html). **This is how you show the HTML interactive directly.**
-[Plotly2 Random plot](./pages/plotly2.md). **This is how you actually embed the interactive map in a webpage.**
+These links open a new page that contains *only* the Plotly chart.
+The source HTML files for these are located in `assets/plotly_output/`.
 
+* [Green Plotly (Standalone)](/assets/plotly_output/GreenSkillSpace_cluster_plot_highlight.html)
+* [Plotly2 Random Plot (Standalone)](/assets/plotly_output/my_interactive_plot.html)
+
+
+### Plotly Charts Embedded in Webpages
+
+These links take you to dedicated pages (source Markdown in `_pages/`) where the Plotly charts are embedded within the page content.
+[Plotly ](/pages/plotly.md). **This is how you show the HTML interactive directly.**
+[Plotly2 Random plot](/pages/plotly2.md). **This is how you actually embed the interactive map in a webpage.**
 
 
 
