@@ -19,8 +19,8 @@ The source HTML files for these are located in `assets/plotly_output/`.
 ### Plotly Charts Embedded in Webpages
 
 These links take you to dedicated pages (source Markdown in `_pages/`) where the Plotly charts are embedded within the page content.
-[Plotly ](/pages/plotly.md). **This is how you show the HTML interactive directly.**
-[Plotly2 Random plot](/pages/plotly2.md). **This is how you actually embed the interactive map in a webpage.**
+[Plotly ](./_pages/plotly.md). **This is how you show the HTML interactive directly.**
+[Plotly2 Random plot](./_pages/plotly2.md). **This is how you actually embed the interactive map in a webpage.**
 
 
 
