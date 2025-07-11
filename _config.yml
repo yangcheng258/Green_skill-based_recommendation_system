@@ -8,3 +8,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+github:
+      zip_url: http://example.com/download.zip
+      index_url: https://github.com/yangcheng258/Green_skill-based_recommendation_system/blob/master/my_interactive_plot.html
