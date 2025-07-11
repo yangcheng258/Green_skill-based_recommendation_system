@@ -12,4 +12,4 @@ This is my interactive Plotly chart:
 # {% include_relative ./_data/GreenSkillSpace_cluster_plot_highlight.html %}
 
         
-[back](./)
+[back](../)
