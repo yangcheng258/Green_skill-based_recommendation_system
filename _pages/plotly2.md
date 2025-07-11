@@ -9,7 +9,7 @@ description: Page with the Plotly.
 
 This is my interactive Plotly chart:
 
-{% include_relative  ./_data/my_interactive_plot.html %}
+{% include_relative  ../_data/my_interactive_plot.html %}
 
 
 I need something
