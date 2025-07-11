@@ -10,7 +10,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Plotly2 Random plot](./my_interactive_plot.html).
 
-[Plotly2 Random plot](./plotly2.html).
+[Plotly2 Random plot](./plotly2.md).
 
 There should be whitespace between paragraphs.
 
