@@ -9,8 +9,8 @@ description: Page with the Plotly.
 
 This is my interactive Plotly chart:
 
-# {% include_relative my_interactive_plot.html %}
-<iframe src="{{ '/my_interactive_plot.html' | relative_url }}"
+# {% include_relative GreenSkillSpace_cluster_plot_highlight.html.html %}
+<iframe src="{{ '/GreenSkillSpace_cluster_plot_highlight.html.html' | relative_url }}"
         width="100%"
         height="600px"
         frameborder="0"
