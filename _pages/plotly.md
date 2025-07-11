@@ -9,9 +9,7 @@ description: Page with the Plotly.
 
 This is my interactive Plotly chart:
 
-{% include_relative  my_interactive_plot.html %}
+# {% include_relative _data/GreenSkillSpace_cluster_plot_highlight.html %}
 
-
-I need something
         
 [back](./)
