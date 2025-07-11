@@ -14,4 +14,4 @@ This is my interactive Plotly chart:
 
 I need something
         
-[back](./)
+[back](../)
