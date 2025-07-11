@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.md).
 
 [Green Plotly](./GreenSkillSpace_cluster_plot_highlight.html). **This is how you show the HTML interactive directly.**
 [Green Plotly webpage](./plotly.md). **This is how you show the HTML interactive directly.**
