@@ -9,6 +9,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Green Plotly](./GreenSkillSpace_cluster_plot_highlight.html).
 
 [Plotly2 Random plot](./my_interactive_plot.html).
+
+[Plotly2 Random plot](./plotly2.html).
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
