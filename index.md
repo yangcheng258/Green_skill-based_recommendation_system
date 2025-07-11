@@ -4,15 +4,15 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](/_pages/another-page.html).
+[Link to another page](./_pages/another-page.html).
 
-[Green Plotly](/_data/GreenSkillSpace_cluster_plot_highlight.html). **This is how you show the HTML interactive directly.**
-[Green Plotly webpage](/_pages/plotly.md). **This is how you show the HTML interactive directly.**
+[Green Plotly](./_data/GreenSkillSpace_cluster_plot_highlight.html). **This is how you show the HTML interactive directly.**
+[Green Plotly webpage](./_pages/plotly.md). **This is how you show the HTML interactive directly.**
 
  
 
-[Plotly2 Random plot](/_data/my_interactive_plot.html). **This is how you show the HTML interactive directly.**
-[Plotly2 Random plot](/_pages/plotly2.md). **This is how you actually embed the interactive map in a webpage.**
+[Plotly2 Random plot](./_data/my_interactive_plot.html). **This is how you show the HTML interactive directly.**
+[Plotly2 Random plot](./_pages/plotly2.md). **This is how you actually embed the interactive map in a webpage.**
 
 
 
