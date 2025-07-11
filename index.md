@@ -14,7 +14,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Plotly2 Random plot](../_data/my_interactive_plot.html). **This is how you show the HTML interactive directly.**
 [Plotly2 Random plot](../_pages/plotly2.md). **This is how you actually embed the interactive map in a webpage.**
 
+[Link to another page]({{ '/pages/another-page.html' | relative_url }}).
 
+[Green Plotly (standalone)]({{ '/data/GreenSkillSpace_cluster_plot_highlight.html' | relative_url }}). **This is how you show the HTML interactive directly.**
+[Green Plotly webpage (embedded)]({{ '/pages/plotly.md' | relative_url }}). **This is how you show the HTML interactive directly.**
+
+[Plotly2 Random plot (standalone)]({{ '/data/my_interactive_plot.html' | relative_url }}). **This is how you show the HTML interactive directly.**
+[Plotly2 Random plot webpage (embedded)]({{ '/pages/plotly2.md' | relative_url }}). **This is how you actually embed the interactive map in a webpage.**
 
 
 
